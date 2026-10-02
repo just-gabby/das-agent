@@ -1,0 +1,14 @@
+# Company content 
+boilerplate_content.py
+config.yaml
+knowledge_base/
+reference_data/
+usage_log.txt
+
+# Python housekeeping
+venv/
+__pycache__/
+*.pyc
+
+# macOS housekeeping
+.DS_Store
